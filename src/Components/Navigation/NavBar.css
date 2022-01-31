@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mask{
+    width: auto;
+    height: 100vh;
+}
+
+.navbar_container{
+    width: auto;
+    height: 100vh;
+    background: #2E2929;
+    padding-top: 6px;
+}
+
+.navoption{
+    min-width: 100%;
+    width: auto;
+    display: flex;
+    justify-content: left;
+}
+
+.navoption .post-icon_para{
+    display: none;
+    margin: auto 5px;
+}
+
+.navoption:hover p{
+    display: flex;
+}
+
+

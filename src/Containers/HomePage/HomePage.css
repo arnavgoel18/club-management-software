@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+}
+
+.container_layer{
+    display: flex;
+}
+
+.info_container{
+    display: flex;
+    background: #ABC6EF;
+    color: #fff;
+    width: 100%;
+}
+
